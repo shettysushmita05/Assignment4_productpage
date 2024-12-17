@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer components{
+  table, th, td {
+   
+    padding: 10px;
+    width:100%;
+    border: solid 1px white;
+
+    
+  }
+  td{
+    padding-left: 100px;
+  }
+
+}
